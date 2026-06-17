@@ -1,5 +1,7 @@
 # PolarNet
 
+https://doi.org/10.5281/zenodo.20729047
+
 > PolarNet: Enhanced Polar Coordinate Lane Detection via
 Feature Fusion and Geometry-Aware Adaptive
 Weighting
