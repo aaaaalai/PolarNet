@@ -1,6 +1,6 @@
 # PolarNet
 
-> PolarNet Enhanced Polar Coordinate Lane Detection via
+> PolarNet: Enhanced Polar Coordinate Lane Detection via
 Feature Fusion and Geometry-Aware Adaptive
 Weighting
 
